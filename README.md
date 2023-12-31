@@ -1,6 +1,6 @@
 # WorldLanguageGamesBot
 
-After 4 years of playing WorldLanguageGames.net. I wanted to see if I could automate the countless hours of Homework I had.
+After 4 years of playing WorldLanguageGames.net to learn Mandarin, I wanted to see if I could automate the countless hours of Homework I had.
 Here is my "Homework" bot.
 
 Note: I have only included one module but have many more, reach out to me if you are interested in seeing these modules as well
